@@ -1,0 +1,17 @@
+<!-- Lunar Phases Interactive Embed Code (500x500) -->
+<iframe 
+    src="https://content-interactives.github.io/lunar-phases/"
+    style="width: 500px; height: 500px; border: none; border-radius: 8px; overflow: hidden;"
+    title="Lunar Phases Visualization"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
+
+<!-- 
+Instructions:
+1. Copy the code above
+2. Paste it into your HTML where you want the lunar phases interactive to appear
+3. The interactive will display in a 500x500 pixel frame
+4. Users can interact with the slider to change moon phases
+5. The visualization is responsive within the frame
+--> 
